@@ -96,3 +96,5 @@ while(running)
         }
     }
 }
+
+Console.WriteLine("Program is done");
